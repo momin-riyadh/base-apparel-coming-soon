@@ -35,7 +35,7 @@ Desktop
 ### Links
 
 - Solution URL: [Github](https://github.com/anerpeco/base-apparel-coming-soon)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://base-apparel-coming-soon-anerpeco.vercel.app/)
 
 ## My process
 
