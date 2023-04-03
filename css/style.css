@@ -76,7 +76,7 @@ body {
   background: linear-gradient(150.03deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
 }
 body .hero {
-  max-width: 26.25rem;
+  max-width: 1440px;
   margin-inline: auto;
 }
 @media only screen and (min-width: 90rem) {
@@ -85,7 +85,8 @@ body .hero {
     background-repeat: no-repeat;
     background-size: 69% 100%;
     max-width: 90.125rem;
-    height: 50rem;
+    height: 80vh;
+    margin: auto;
   }
 }
 
